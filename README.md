@@ -1,7 +1,19 @@
 # infoSec_InterviewQUIZ.py
 # *A simple CLI Quiz app based on InfoSec Interview Questions*
 
+**Usage:** </br>
+infoSec_InterviewQUIZ.py [OPTIONS] COMMAND [ARGS]...
 
+ 
+
+**Options:**</br>
+  --version  Show the version and exit.
+  --help     Show this message and exit.
+
+**Commands:**</br>
+  info   Info About App python3 infosec_quiz.py info
+  start  Start Quiz python3 infosec_quiz.py start
+  
 
 
 ## To start:   *python3 infoSec_InterviewQUIZ.py start*  
@@ -12,8 +24,14 @@
 
 For now, there are **few** questions about **Cryptography, Network and Web Foundations**. I'll add more questions and make it useful for someone who is studying for some infoSec related certificate exams or infoSec job interviews.
 
-# Example Question (out of cryptography_questionsList):
+# Example Question (out of cryptography_questionsList _and_ network_questionsList):
 
 *"Symmetric encryption uses the same key for both encryption and decryption - much faster but the key needs to be transferred over an unencrypted channel.*  **(a)True,  (b)False** </br>
 
 *"Asymmetric encryption: uses different keys for encryption and decryption - more secure but slow.*  **(a)True  (b)False**
+
+*"VPN runs through the computer servers of thousands of volunteers (over 4,500 ) spread throughout the  world.*   **(a)True  (b)False**
+
+*"ARP spoofing is a type of attack in which a malicious actor sends falsified ARP (Address Resolution Protocol) messages over a local area network.*   **(a)True  (b)False**
+
+Thanks to Jesse(https://github.com/Jcharis), I got his Udemy Course "Building Command Line Tools" and in his video tutorial,which was great by the way, there was a quiz app which exams you about tech, history, Bible,etc. And I coded the version for my own needs. *Feel free to make it better for your own needs. With the help of Click Library, and with more questions, you can make various kinds of CLI quiz tools.*
