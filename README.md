@@ -28,7 +28,6 @@ To run the app, go to the folder and **pyton3 infoSec_InterviewQUIZ.py start**</
   start  Start Quiz python3 infosec_quiz.py start
   
 
-
 ## To start:   *python3 infoSec_InterviewQUIZ.py start*  
 
 ## For help:   *python3 infoSec_InterviewQUIZ.py --help* 
