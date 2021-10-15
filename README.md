@@ -5,6 +5,19 @@
 infoSec_InterviewQUIZ.py [OPTIONS] COMMAND [ARGS]...
 
  
+![image](https://user-images.githubusercontent.com/59505246/137523167-4cc8d1ae-e9de-4f14-8c22-ad7856a6d6ae.png)
+
+
+To run the app, go to the folder and **pyton3 infoSec_InterviewQUIZ.py start**</br>  Then, you'll see this selection part. You can choose these 3 areas. Later,I'll add new sections and more questions. Now, the number of questions is insufficient.
+
+![image](https://user-images.githubusercontent.com/59505246/137523703-f2ee235f-9ad1-41e7-ae8d-24dc5a125ad0.png)
+
+
+![image](https://user-images.githubusercontent.com/59505246/137524255-6dbb122c-9798-4f22-90dd-ef7175ebe0cf.png)
+
+**You can see your result:)**
+
+![image](https://user-images.githubusercontent.com/59505246/137524573-c37736d3-df7a-4ff5-86dd-ca6adb68521e.png)
 
 **Options:**</br>
   --version  Show the version and exit.
