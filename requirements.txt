@@ -1,0 +1,6 @@
+
+
+requirements.txt
+
+click            # For CLI based apps, a lovely module
+PyInquirer       # To select the quiz type in the terminal (Up Arrow, Down Arrow for selection)
